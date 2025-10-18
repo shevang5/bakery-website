@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "john@mail.com",
+      "password": "changeme",
+      "name": "Jhon",
+      "isAdmin": true,
+      "avatar": "https://i.imgur.com/LDOO4Qs.jpg"
+    },
+    {
+      "id": "aS-kull5P86pqlqeodfiV",
+      "email": "3@3.com",
+      "username": "3",
+      "password": "3",
+      "isAdmin": false
+    },
+    {
+      "id": "pKZZDY5vMzlkBhdE1rhri",
+      "email": "1@1.com",
+      "username": "1",
+      "password": "1",
+      "isAdmin": false
+    },
+    {
+      "id": "OaYAdRw-K3PxuUBItJ_S_",
+      "email": "",
+      "username": "",
+      "password": "",
+      "isAdmin": false
+    },
+    {
+      "id": "S8DlSIxJx6smwwo5iSn8G",
+      "email": "test_4@test.com",
+      "username": "4",
+      "password": "4",
+      "isAdmin": false
+    },
+    {
+      "id": "2es-Lbe9JTlun8iYOcmE_",
+      "email": "sdsd@gmau.vmn",
+      "username": "s",
+      "password": "s",
+      "isAdmin": false
+    }
+  ],
+  "products": [
+    {
+      "id": "4",
+      "title": "Handmade Fresh Table",
+      "slug": "handmade-fresh-table",
+      "price": 687,
+      "description": "Andy shoes are designed to keeping in..."
+    }
+  ]
+}
